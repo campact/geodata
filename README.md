@@ -21,7 +21,22 @@ https://www.suche-postleitzahl.org/plz-karte-erstellen
 https://www.bundeswahlleiter.de/bundestagswahlen/2021/wahlkreiseinteilung/downloads.html
 
 Shapefile mit QGis tranformiert (file:///Users/zechmann/Downloads/Hilfe_Umwandlung_SHP_zu_GeoJSON_mit_QGIS.pdf)
+Alternative? https://mapshaper.org
 
+PLZ Zuordnung für die Wahlkreise
+Wahlkreise 2017: https://www.bundestag.de/ajax/filterlist/de/533302-533302/plz-ort-autocomplete?_type=query&q=
+
+## Ergebnis der Bundestagswahl 2017
+
+Um für die Bundestagswahl 2021 Vergleichsergebnisse darstellen zu können, wurden die Wahlkreisergebnisse der Bundestagswahl 2017 auf die für die Wahl zum 20. Deutschen Bundestag gültige Wahlkreiseinteilung umgerechnet.
+
+https://www.bundeswahlleiter.de/bundestagswahlen/2021/wahlkreiseinteilung/umgerechnete-ergebnisse.html
+
+# Änderung der Wahlkreise von 2017 auf 2021
+
+Für die Bundestagswahl 2021 hat der Gesetzgeber auf der Grundlage des Gebietsstandes vom 15. April 2020 gegenüber der bisherigen Wahlkreiseinteilung insgesamt 17 Wahlkreise neu abgegrenzt.
+
+https://www.bundeswahlleiter.de/bundestagswahlen/2021/wahlkreiseinteilung.html#76ee9406-4969-4b56-8bf8-512df180e2cb
 
 ## Weitere Quellen
 
